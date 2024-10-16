@@ -1,0 +1,38 @@
+readme.md 작성하면 github readme에 보임
+
+
+>cd C:/eGovFrameDev-3.10.0-64bit/workspace/TestProject
+
+>git init
+
+>git remote add origin https://github.com/khj-dev95/test
+
+
+-- git 최초 설정 
+
+>git config --global  user.name khj-dev95
+
+>git conifg --global user.email s9515024@gmail.com
+
+--------------
+>git add .  <-- 로컬저장소에 프로젝트 업로드 
+
+>git commit -m "커밋코멘트"
+
+>git push origin master  <-- 원격 저장소 저장 
+
+>git log
+
+log에서 나올려면 q
+
+>git checkout 커밋암호화문자  (특정 커밋시점으로 돌아가기)
+
+>git checkout master  (다시 최신으로 돌아오기)
+
+
+
+
+
+
+
+
